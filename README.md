@@ -11,12 +11,12 @@
 
 ## Table of Contents
 
-1.  [Problem](#problem)
-2.  [Demo](#demo)
-3.  [Installation](#installation)
-4.  [Usage](#usage)
+1. [Problem](#problem)
+2. [Demo](#demo)
+3. [Installation](#installation)
+4. [Usage](#usage)
     - [Props](#props)
-5.  [Tips](#tips)
+5. [Tips](#tips)
 
 ### Problem
 
@@ -38,8 +38,8 @@ To view the package in action, check it out [here.](https://codesandbox.io/s/v-g
 > Use in Vue component
 
 ```text
-yarn add v-google-translate
-npm i v-google-translate
+yarn add v-google-translate-ch
+npm i v-google-translate-ch
 ```
 
 > Use in html
