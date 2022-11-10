@@ -1,9 +1,9 @@
 {
   "name": "v-google-translate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i7eo/v-google-translate.git"
+    "url": "git+https://pitw/v-google-translate.git"
   },
   "keywords": [
     "Vue2.x",
@@ -73,7 +73,7 @@
   "author": "i7eo <george704t@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/i7eo/v-google-translate/issues"
+    "url": "https://github.com/pitw/v-google-translate/issues"
   },
-  "homepage": "https://github.com/i7eo/v-google-translate#readme"
+  "homepage": "https://github.com/pitw/v-google-translate#readme"
 }
